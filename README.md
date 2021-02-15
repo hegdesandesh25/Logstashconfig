@@ -1,0 +1,2 @@
+# Logstashconfig
+Logstash config
